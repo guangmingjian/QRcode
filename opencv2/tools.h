@@ -17,7 +17,7 @@ using namespace std;
 string writePath = "";
 string readPath = "D:/桌面/workspace/识别二维码/二维码/DSC_0025.jpg";
 double fScale = 1;      //缩放倍数  
-int 
+int N = 3;
 Mat src, src_gray, tgray;
 vector<vector<Point> > contours;
 void findSquares()

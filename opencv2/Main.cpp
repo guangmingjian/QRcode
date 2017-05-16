@@ -12,4 +12,9 @@ int main()
 		return -1;
 	on_trackbar();
 	waitKey();
+
+
+
+
+
 }
